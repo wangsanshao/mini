@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "查看启动日志",
+  "usingComponents": {
+    "xr-start": "../../components/xr-start/index"
+  },
+  "disableScroll": true
+}
