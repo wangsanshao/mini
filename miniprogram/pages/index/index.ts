@@ -47,6 +47,9 @@ Page({
     })
   },
   clickHello() {
-      console.log('app', app)
+    var test = [,1,2,3,5]
+    console.log(test)
+    var v;
+      // console.log('app', app)
   }
 })
